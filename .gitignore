@@ -1,7 +1,8 @@
 .DS_Store
 
-# My token
-public/.env
+# dotenv environment variables file
+.env
+.env.test
 
 # module is here
 node_modules/
