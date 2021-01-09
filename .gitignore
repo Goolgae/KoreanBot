@@ -1,0 +1,9 @@
+.DS_Store
+
+# My token
+public/.env
+
+# module is here
+node_modules/
+
+package-lock.json
